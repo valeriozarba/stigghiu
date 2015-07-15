@@ -1,16 +1,9 @@
 <?php
 
-
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-
-
 /**
  * Description of Sessions
+ * 
+ * L aclasse session serve a creare e gestire al meglio la sessione
  *
  * @author valerio
  */
@@ -22,6 +15,8 @@ class Sessions {
     function __construct() {
         
     }
+    
+    
     
     
 }

@@ -98,6 +98,8 @@ abstract class StigghiuController{
              include("config/lang/it.lang.php");//include check session FR
              
          }
+         
+         
 
        
         
