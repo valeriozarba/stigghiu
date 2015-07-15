@@ -25,6 +25,7 @@ include 'config/bootstrap.php';
 $app=Stigghiu::init($conf);
 
 
+
 $app->run();
 
 
