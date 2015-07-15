@@ -56,6 +56,7 @@ $this->setSeoTitle("Sono il controller di Stigghiu!");
                             <li>config/boostrap.php</li>
                         </ul>
                     </li>
+                    
                     <li>public/</li>
                 </ul>
                 
