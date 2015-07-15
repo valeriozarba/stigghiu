@@ -8,7 +8,7 @@ $this->setSeoTitle("Sono il controller di Stigghiu!");
         <head>
             <meta charset="UTF8" />
             <title><?=$this->getSeoTitle();//lo stampo?></title>
-    
+            
         </head>
         <body>
                 <h1>Il controller principale</h1>
@@ -50,7 +50,12 @@ $this->setSeoTitle("Sono il controller di Stigghiu!");
                             <li>class/loadlib.php</li>
                         </ul>
                     </li>
-                    <li>config/</li>
+                    <li>config/
+                        <ul>
+                            <li>config/lang/</li>
+                            <li>config/boostrap.php</li>
+                        </ul>
+                    </li>
                     <li>public/</li>
                 </ul>
                 
